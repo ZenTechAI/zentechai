@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://unifiedpbx.in/">🌐 Portfolio & Solutions</a> •
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/voip-asterisk-freeswitch-ccaas-aivoiceagent-consultant/">💼 LinkedIn</a> •
   <a href="https://github.com/ZenTechAI">💻 GitHub</a>
 </p>
 
@@ -935,7 +935,7 @@ For technology consulting, architecture, product engineering, telecom platforms,
 
 💻 **GitHub:** https://github.com/ZenTechAI
 
-💼 **LinkedIn:** https://www.linkedin.com/
+💼 **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/voip-asterisk-freeswitch-ccaas-aivoiceagent-consultant/)
 
 ---
 
