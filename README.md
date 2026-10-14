@@ -1,4 +1,4 @@
-# ZenTechAI — AI, Telecom, SaaS & Digital Product Engineering
+# UnifiedPBX.in — AI, Telecom, SaaS & Digital Product Engineering
 
 <p align="center">
   <strong>AI • Voice AI • CPaaS • CCaaS • VoIP • WebRTC • SaaS • CRM/ERP • Automation</strong>
@@ -11,14 +11,14 @@
 <p align="center">
   <a href="https://unifiedpbx.in/">🌐 Portfolio & Solutions</a> •
   <a href="https://www.linkedin.com/in/voip-asterisk-freeswitch-ccaas-aivoiceagent-consultant/">💼 LinkedIn</a> •
-  <a href="https://github.com/ZenTechAI">💻 GitHub</a>
+  <a href="https://github.com/UnifiedPBX">💻 GitHub</a>
 </p>
 
 ---
 
-## 🚀 What is ZenTechAI?
+## 🚀 What is UnifiedPBX?
 
-**ZenTechAI** is a technology and product engineering initiative focused on building **AI-powered business applications, communication platforms, SaaS products and industry-specific digital systems**.
+**UnifiedPBX** is a technology and product engineering initiative focused on building **AI-powered business applications, communication platforms, SaaS products and industry-specific digital systems**.
 
 We combine software engineering, telecom infrastructure, cloud architecture, AI/LLM integration and business-domain understanding to build systems that are designed for **real-world production use**, not just prototypes.
 
@@ -41,7 +41,7 @@ Our work spans:
 
 # 👨‍💻 Engineering Leadership
 
-ZenTechAI is driven by **Pankaj Joshi**, a Solution Architect and Full-Stack Engineer with extensive experience designing and developing business-critical software systems.
+UnifiedPBX is driven by **Pankaj Joshi**, a Solution Architect and Full-Stack Engineer with extensive experience designing and developing business-critical software systems.
 
 The focus is not simply on writing code.
 
@@ -150,7 +150,7 @@ We design systems where an AI agent can communicate with customers through real 
 
 # ☎️ Telecom, VoIP & Contact Center Engineering
 
-Telecom engineering is a core specialization of ZenTechAI.
+Telecom engineering is a core specialization of UnifiedPBX.
 
 We work across the complete communication stack:
 
@@ -292,7 +292,7 @@ Typical architecture includes:
 
 Many businesses cannot operate effectively with an off-the-shelf CRM or ERP.
 
-ZenTechAI develops **custom business platforms around the actual workflow of the organization**.
+UnifiedPBX develops **custom business platforms around the actual workflow of the organization**.
 
 ### Business systems
 
@@ -449,7 +449,7 @@ Typical integrations include:
 
 Production applications require more than application code.
 
-ZenTechAI works across the infrastructure layer as well:
+UnifiedPBX works across the infrastructure layer as well:
 
 - AWS
 - Azure
@@ -661,7 +661,7 @@ AI should solve a measurable business problem rather than being added simply bec
 
 # 🔬 From Prototype to Production
 
-One of the strongest areas of ZenTechAI is helping transform existing systems into production-ready platforms.
+One of the strongest areas of UnifiedPBX is helping transform existing systems into production-ready platforms.
 
 Typical engagements include:
 
@@ -769,7 +769,7 @@ This is particularly useful for:
 
 ---
 
-# 📈 Why Work With ZenTechAI?
+# 📈 Why Work With UnifiedPBX?
 
 ### Technical depth
 
@@ -799,7 +799,7 @@ Architecture, monitoring, reliability and maintainability are considered part of
 
 # 🎯 Ideal Projects
 
-ZenTechAI is particularly suited for projects involving:
+UnifiedPBX is particularly suited for projects involving:
 
 - AI Voice Agents
 - Contact Centers
@@ -923,7 +923,7 @@ Business Workflow
 
 will increasingly operate as a unified intelligent platform.
 
-**ZenTechAI is focused on engineering that convergence.**
+**UnifiedPBX is focused on engineering that convergence.**
 
 ---
 
@@ -933,7 +933,7 @@ For technology consulting, architecture, product engineering, telecom platforms,
 
 🌐 **Portfolio:** https://unifiedpbx.in/
 
-💻 **GitHub:** https://github.com/ZenTechAI
+💻 **GitHub:** https://github.com/UnifiedPBX
 
 💼 **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/voip-asterisk-freeswitch-ccaas-aivoiceagent-consultant/)
 
@@ -954,5 +954,5 @@ The goal is to publish practical engineering work around:
 </p>
 
 <p align="center">
-  <em>ZenTechAI — Engineering intelligent digital products for real-world businesses.</em>
+  <em>UnifiedPBX — Engineering intelligent digital products for real-world businesses.</em>
 </p>
