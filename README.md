@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://unifiedpbx.in/">🌐 Portfolio & Solutions</a> •
   <a href="https://www.linkedin.com/in/voip-asterisk-freeswitch-ccaas-aivoiceagent-consultant/">💼 LinkedIn</a> •
-  <a href="https://github.com/UnifiedPBX">💻 GitHub</a>
-</p>
+ </p>
 
 ---
 
@@ -932,8 +931,6 @@ will increasingly operate as a unified intelligent platform.
 For technology consulting, architecture, product engineering, telecom platforms, AI systems or SaaS development:
 
 🌐 **Portfolio:** https://unifiedpbx.in/
-
-💻 **GitHub:** https://github.com/UnifiedPBX
 
 💼 **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/voip-asterisk-freeswitch-ccaas-aivoiceagent-consultant/)
 
